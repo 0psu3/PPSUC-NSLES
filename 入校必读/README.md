@@ -20,6 +20,7 @@ Email：chriswhite33333@gmail.com
 |                  | 公安情报学                     | H        |
 |                  | 国家安全保卫（和新专业重合？） | R        |
 | 法学院           | 治安学（警察法学方向）         | A        |
+|                  | 法学                           | 无代号   |
 | 交通管理学院     | 交通管理工程                   | F        |
 | 公安管理学院     | 公安管理学                     | K        |
 |                  | 公安政治工作（新专业）         | R        |
@@ -394,7 +395,7 @@ PS：21级只要在9月7日分级考试达到50分（满分100）以上即可参
 ### 学校各场所开放时间表
 
    <div  align="center">  
-   <img src="https://pic.jitudisk.com/public/2022/06/03/7bac22727332d.png" width = "75%" height = "75%" alt="图片名称" align=center />
+   <img src="https://pic.jitudisk.com/public/2022/06/03/7bac22727332d.png" width = "50%" height = "50%" alt="图片名称" align=center />
    </div>
 
 ### 成绩查询页面截图
@@ -402,5 +403,5 @@ PS：21级只要在9月7日分级考试达到50分（满分100）以上即可参
    感谢TSQ同学友情赞助
 
    <div  align="center">  
-   <img src="https://pic.jitudisk.com/public/2022/06/03/99d6a20f5e3c6.jpg" width = "75%" height = "75%" alt="图片名称" align=center />
+   <img src="https://pic.jitudisk.com/public/2022/06/03/99d6a20f5e3c6.jpg" width = "50%" height = "50%" alt="图片名称" align=center />
    </div>
