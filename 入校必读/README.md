@@ -8,10 +8,6 @@ Email：chriswhite33333@gmail.com
 
 ---
 
-[toc]
-
----
-
 ## 学院和专业
 
 | 学院             | 专业                           | 专业代号 |
@@ -379,23 +375,32 @@ PS：21级只要在9月7日分级考试达到50分（满分100）以上即可参
 
 1. VR全景地图（微信）
 
-   ![](https://pic.jitudisk.com/public/2022/06/03/70ee61ed802b0.png)
+   <div  align="center">  
+   <img src="https://pic.jitudisk.com/public/2022/06/03/70ee61ed802b0.png" width = "50%" height = "50%" alt="图片名称" align=center />
+   </div>
 
 2. 鸟瞰图（团河校区）
    
-   ![](https://pic.jitudisk.com/public/2022/06/03/2e75707af5b36.jpg)
+   <div  align="center">  
+   <img src="https://pic.jitudisk.com/public/2022/06/03/2e75707af5b36.jpg" width = "100%" height = "100%" alt="图片名称" align=center />
+   </div>
 
 3. 卫星图（团河校区）
    
-   ![](https://pic.jitudisk.com/public/2022/06/03/6199293c9a66b.png)
-
+   <div  align="center">  
+   <img src="https://pic.jitudisk.com/public/2022/06/03/6199293c9a66b.png" width = "100%" height = "100%" alt="图片名称" align=center />
+   </div>
 
 ### 学校各场所开放时间表
 
-   ![](https://pic.jitudisk.com/public/2022/06/03/7bac22727332d.png)
+   <div  align="center">  
+   <img src="https://pic.jitudisk.com/public/2022/06/03/7bac22727332d.png" width = "75%" height = "75%" alt="图片名称" align=center />
+   </div>
 
 ### 成绩查询页面截图
 
    感谢TSQ同学友情赞助
 
-   ![](https://pic.jitudisk.com/public/2022/06/03/99d6a20f5e3c6.jpg)
+   <div  align="center">  
+   <img src="https://pic.jitudisk.com/public/2022/06/03/99d6a20f5e3c6.jpg" width = "75%" height = "75%" alt="图片名称" align=center />
+   </div>
