@@ -115,37 +115,13 @@ Email：chriswhite33333@gmail.com
 <br/>
 
 <span class="heimu">
-怎么可能
-</span>
-
-<br/>
-
-<span class="heimu">
 笨蛋，才、才不会告诉你公大军训的内容呢
 </span>
 
 <br/>
 
-<span class="heimu">
-除非你...你请我吃饭
-</span>
-
-<br/>
-
-<span class="heimu">
-请...请我吃饭也没有用哦
-</span>
-
-<br/>
-
-<span class="heimu">
-咦！！要走了吗……才，才不是想挽留你呢！
-</span>
-
-<br/>
-
 <span title="你知道的太多了" class="heimu">
-一位不愿意透露姓名的人士路过，在这里放下了一条
+一条被遗弃的
    <a href="https://workdrive.zohopublic.com.cn/external/280847181e0bb3bbeea2f9cb062831cdf763ca1d9ed1456fe7e3a641bdf0851d/download" title="队列练兵手册">
       链接
    </a>
